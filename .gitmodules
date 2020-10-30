@@ -1,0 +1,3 @@
+[submodule "themes\\degearte"]
+	path = themes\\degearte
+	url = https://github.com/themefisher/twenty-twenty-hugo.git
